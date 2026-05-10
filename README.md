@@ -32,7 +32,7 @@ A production-ready Retrieval-Augmented Generation (RAG) application built with N
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS + shadcn/ui
 - **AI/LLM orchestration**: LangChain
-- **Embeddings**: OpenAI SDK
+- **Embeddings**: OpenAI SDK.
 - **Vector DB**: Qdrant Cloud.
 
 ## 💻 Local Setup
