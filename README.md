@@ -1,6 +1,6 @@
 # NotebookRAG - Complete RAG Application
 
-A production-ready Retrieval-Augmented Generation (RAG) application built with Next.js 14, LangChain, OpenAI, and Qdrant. Upload a document (PDF or TXT) and interact with it using a ChatGPT-like interface.
+A production-ready Retrieval-Augmented Generation (RAG) application built with Next.js 14, LangChain, OpenAI, and Qdrant. Upload a document (PDF or TXT) and interact with it using a ChatGPT-like interface
 
 ## 🚀 Features
 
